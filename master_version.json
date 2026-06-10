@@ -1,0 +1,33 @@
+{
+  "terakhir_update": "2026-06-10T10:17:21.838Z",
+  "modul": {
+    "misi_harian.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "misi_mingguan.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "misi_bulanan.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "Video.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "toko.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "resep.json": {
+      "versi": "1.0",
+      "info": "-"
+    },
+    "Kurikulum.json": {
+      "versi": "1.0",
+      "info": "-"
+    }
+  }
+}
