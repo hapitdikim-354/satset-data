@@ -1,12 +1,12 @@
 {
-  "terakhir_update": "2026-07-11T04:24:17.310Z",
+  "terakhir_update": "2026-07-11T04:45:39.042Z",
   "modul": {
     "misi_harian.json": {
       "versi": "1.0",
       "info": "-"
     },
     "misi_mingguan.json": {
-      "versi": "2025-12-31T17:00:00.000Z",
+      "versi": "2026-01-31T17:00:00.000Z",
       "info": "-"
     },
     "misi_bulanan.json": {
