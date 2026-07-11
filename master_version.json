@@ -1,16 +1,16 @@
 {
-  "terakhir_update": "2026-07-02T16:50:42.145Z",
+  "terakhir_update": "2026-07-11T04:23:21.391Z",
   "modul": {
     "misi_harian.json": {
       "versi": "1.0",
       "info": "-"
     },
     "misi_mingguan.json": {
-      "versi": "1.0",
+      "versi": "2025-12-31T17:00:00.000Z",
       "info": "-"
     },
     "misi_bulanan.json": {
-      "versi": "1.0",
+      "versi": "2025-12-31T17:00:00.000Z",
       "info": "-"
     },
     "Daftar_Channel.json": {
